@@ -1,0 +1,40 @@
+.container {
+	width: 1000px;
+	border: 1px solid black;
+	padding: 50px;
+	margin: auto;
+	margin-top: 100px;
+	box-shadow: 10px 10px;
+	border-radius: 7px;
+	box-shadow: 0 4px 8px 0 rgba(237, 12, 12, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	background-image: url(https://img.wallpapersafari.com/desktop/1280/1024/69/45/LcSuXn.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.regForm {
+	font-style: italic;
+	background: linear-gradient(to left,
+			violet,
+			yellow,
+			orange,
+			red
+			);
+	-webkit-background-clip: text;
+	color: transparent;
+}
+
+.registration-form {
+	width: 900px;
+	margin: auto;
+}
+
+.title {
+	text-align: center;
+}
+
+.submit-btn {
+	text-align: center;
+}
